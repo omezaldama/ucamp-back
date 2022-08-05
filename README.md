@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Backend project
 
 This project was made with [FastAPI](https://fastapi.tiangolo.com/).
 
